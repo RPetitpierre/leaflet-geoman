@@ -93,10 +93,10 @@
   background-image: url('../assets/icons/Merge.svg');
 }
 .leaflet-pm-toolbar .leaflet-pm-icon-split {
-  background-image: url(../img/icons8-split-files-64.png);
+  background-image: url(../assets/icons/icons8-split-files-64.png);
 }
 .leaflet-pm-toolbar .leaflet-pm-icon-join {
-  background-image: url(../img/icons8-link-64.png);
+  background-image: url(../assets/icons/icons8-link-64.png);
 }
 
 .leaflet-buttons-control-button:hover,
