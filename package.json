@@ -25,6 +25,7 @@
     "@turf/kinks": "6.3.0",
     "@turf/line-intersect": "6.3.0",
     "@turf/line-split": "6.3.0",
+    "@turf/union": "^6.0.3",
     "lodash": "4.17.21",
     "polygon-clipping": "0.15.3"
   },
